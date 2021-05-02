@@ -1,13 +1,9 @@
-CTMS : Commercial Transport Management System
+Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL
+========
 
-A web portal to book vehicles for the purpose of travel and transportation of goods.
+A simple and basic system to add, edit, delete and view using PHP and MySQL. 
 
-This project was created by us by the intention of helping people out and making their life easy. Jobs lost due to COVID-19. This portal may bring some hope of source of income for the people who own commercial vehicles and they want to enlist their vehicles on our portal.
+Blog Article: [Very simple add, edit, delete, view in PHP & MySQL](http://blog.chapagain.com.np/very-simple-add-edit-delete-view-in-php-mysql/)
 
-Team Members:
-Ayush Dixit,
-Suman Kumar,
-Aditya Yadav,
+SQL script to create database and tables is present in **database.sql** file.
 
-B. Tech CSE, 2nd Year
-DY Patil International University, Akurdi, Pune - 411044
